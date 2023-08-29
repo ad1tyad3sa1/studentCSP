@@ -1,0 +1,23 @@
+%%js%%
+
+let a = 1;
+let b = 1;
+if (a === b) {
+    // Establishes variables and criteria
+    console.log("A equals B");
+}
+
+// console.log stores the information and outputs it, unlike print which just outputs static text
+
+// Program using iteration (Repeat N Times/Sum all numbers/Print result)
+
+let sum = 0;
+for (let i = 1; i <= 100; i++) {
+// Structure of javascript for loop: for(initialize; condition; iteration)
+    sum += i;
+// Uses sum module which initiates code given the criteria. 
+}
+
+console.log("Sum of numbers from 1 to 100:", sum);
+// Outputs and stores sum
+

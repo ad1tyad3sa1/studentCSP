@@ -1,0 +1,23 @@
+/* styles.css */
+#calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+/* Visual structure of the calculator */
+#display {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+}
+/*bottom side of calculator */
+#buttons button {
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    margin: 5px;
+}
+/* Defining each button */
