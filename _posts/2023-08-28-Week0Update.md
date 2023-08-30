@@ -1,5 +1,5 @@
 ---
-toc: true
+
 comments: false
 layout: post
 title: Week0Update

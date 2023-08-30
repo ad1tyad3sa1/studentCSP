@@ -1,5 +1,4 @@
 ---
-toc: true
 comments: true
 layout: post
 title: GitHub Pages

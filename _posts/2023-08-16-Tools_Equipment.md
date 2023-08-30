@@ -1,5 +1,5 @@
 ---
-toc: true
+
 comments: true
 layout: post
 title: VSCode, Python, Jupyter, ...
