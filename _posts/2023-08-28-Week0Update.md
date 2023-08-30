@@ -8,7 +8,7 @@ type: hacks
 courses: { csp: {week: 0}}
 ---
  
-# Week0Update
+# Week0 Update
 
 ## Uses of Tools
 

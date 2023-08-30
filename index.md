@@ -17,7 +17,7 @@ title: Aditya's Blog
             ||     ||
 
 
-I am a student from Del Norte Highschool and a beggining programmer looking to improve my coding skills by taking AP CSP.
+I am a student from Del Norte High School and a programmer taking the AP CSP course.
 
 Here is an image that shows a little more about me:
 
@@ -45,7 +45,7 @@ Here is an image that shows a little more about me:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b79pcajaZNY" frameborder="0" allowfullscreen></iframe>
 
-A nice youtube video from my partner Aditya Ramesh, go check his youtube channel!
+A nice youtube video from my friend Aditya Ramesh, go check his youtube channel!
  
 Thanks for reading my page!
 

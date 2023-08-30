@@ -64,11 +64,15 @@ fi
 
 Here are commands I learned for updating a repository using the git command line:
 
-- git add .
+- git add --all
 
 - git status (optional)
 
 - git commit -m 'type any message here'
+
+- git push
+
+-git pull 
 
 # Javascript
 

@@ -1,4 +1,4 @@
-# Week1Update
+# Week1 Update
 
 ## Bash and Linux Hacks
 
@@ -59,6 +59,8 @@ Here are commands I learned for updating a repository using the git command line
 - git status (optional)
 
 - git commit -m 'type any message here'
+
+- git push
 
 # Javascript
 
