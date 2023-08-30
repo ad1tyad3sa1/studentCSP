@@ -2,7 +2,7 @@
 
 comments: false
 layout: post
-title: Week0Update
+title: Week0 Update
 description: What I have accomplished after Week0
 type: hacks
 courses: { csp: {week: 0}}
