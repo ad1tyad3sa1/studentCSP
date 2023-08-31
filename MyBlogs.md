@@ -15,3 +15,7 @@
 # Week 2
 
 - [Week2Update](/WeekUpdates/Week2.md)
+
+- [SnakeGame](/_posts/2023-08-30-snakegame.md)
+
+- [FancyCalculator](/_posts/2023-08-30-fancycalculator.md)

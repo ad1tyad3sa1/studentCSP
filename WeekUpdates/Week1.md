@@ -197,3 +197,44 @@ function calculateResult() {
 }
 
 ```
+## Python IO Hack
+
+
+Here is my basic python quiz application code:
+
+<pre>
+``` python
+def question_with_response(prompt):
+    print("Question:", prompt)
+    msg = input()
+    return msg
+
+def question_and_answer(prompt, answer):
+    print("Question:", prompt)
+    msg = input()
+    if msg == answer:
+        print(msg, "is correct!")
+        return True
+    else:
+        print(msg, "is incorrect!")
+        return False
+
+questions = [
+    ("What command is used to include other functions that were previously developed?", "import"),
+    ("What command is used to evaluate correct or incorrect response in this example?", "if"),
+    ("Each 'if' command contains an '_________' to determine a true or false condition?", "expression")
+]
+
+correct = 0
+
+print("Hello! Welcome to the quiz.")
+
+for question, answer in questions:
+    if question_and_answer(question, answer):
+        correct += 1
+#I used an iteration here
+
+num_questions = len(questions)
+print("Your score:", correct, "out of", num_questions)
+```
+
