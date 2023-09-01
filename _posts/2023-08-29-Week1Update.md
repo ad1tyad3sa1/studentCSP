@@ -7,7 +7,7 @@ type: hacks
 courses: { csp: {week: 1}}
 ---
 
-# Week1Update
+# Week1 Update
 
 ## Bash and Linux Hacks
 
