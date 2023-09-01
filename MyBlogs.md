@@ -20,6 +20,8 @@
 
 # Week 2
 
+- [Week2Plan](/_posts/2023-08-31-Week2Plan.md)
+
 - [Week2Update](/_posts/2023-08-31-Week2Update.md)
 
 - [SnakeGame](/_posts/2023-08-30-snakegame.md)
