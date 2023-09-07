@@ -9,19 +9,23 @@ courses: { csp: {week: 3}}
 
 I have completed the following so far:
 
-1. Created a weather program displaying the weather of San Diego using Python Tricks
+1. Outlined my plan for the week
 
-2. Created a wikipedia search bar with javascript input/output and web interactivity
+2. Created a weather program displaying the weather of San Diego using Python Tricks
 
-3. Outlined my plan for the week
+3. Created a wikipedia search bar with javascript input/output and web interactivity
 
-4. Communicated with my partner about what to showcase 
+4. Improved bash script
 
-5. Planned ahead asking feedback from Chatgpt on my program
+5. Communicated with my partner about what to showcase 
 
-6. Asked for feedback about our plan
+6. Planned ahead asking feedback from Chatgpt on my program
 
-7. I commit changes on my github.io server after testing locally. When working successfully I push my changes to my github repository. 
+7. Asked for feedback about our projects and plan
+
+8. I commit changes on my github.io server after testing locally. 
+
+9. When working successfully I push my changes to my github repository. 
 
 # An explanation of the code from the Javascript Wiki
 
